@@ -1,9 +1,9 @@
 ### Hi there 👋
 Eu me chamo Marcelo Menchinelli sou um programador Front-End e trabalho com as seguintes tecnologia:
 - HTML
-- CSS
-  
+- CSS 
 -Sou estudante de JavaScript e quero me tornando um programador full Stack.
+
 <br>
 <a href="https://www.linkedin.com/in/marcelo-menchinelli-b11ba6232/">Visite Meu Linkedln<a/>
 <br
